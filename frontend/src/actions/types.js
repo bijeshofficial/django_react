@@ -1,1 +1,1 @@
-export const GET_LOADS = "GET_LOADS";
+export const GET_LEADS = "GET_LEADS";
